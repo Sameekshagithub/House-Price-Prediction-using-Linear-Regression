@@ -1,0 +1,28 @@
+{
+  "feature_cols": [
+    "SqFt",
+    "Bedrooms",
+    "Bathrooms",
+    "Age",
+    "Garage",
+    "Pool",
+    "Floors",
+    "RoomRatio",
+    "TotalRooms",
+    "IsNew",
+    "HasAmenities",
+    "SqFt_log",
+    "Age_sq",
+    "Location_Midtown",
+    "Location_Rural",
+    "Location_Suburbs",
+    "Location_Waterfront",
+    "Condition_Fair",
+    "Condition_Good",
+    "Condition_Poor"
+  ],
+  "best_model": "Linear Regression",
+  "r2": 0.9247,
+  "rmse": 70524.15,
+  "mae": 51585.15
+}
